@@ -616,7 +616,8 @@ margin-right: 40px;
    
 }
 .marqueepara{
-   
+   float: right;
+   margin-right:90px ;
     width: 400px;
 }
 hr{
